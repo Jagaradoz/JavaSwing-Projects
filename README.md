@@ -1,4 +1,4 @@
-# Java Projects 💻
+# Java Swing Projects 💻
 
 This is my Java projects (has no license) I have been developing since 2024, for my presentation. It is designed to showcase my understanding of Java programming and my ability to solve complex problems through coding. This project reflects my dedication to learning and my creativity in implementing effective solutions using Java’s powerful features. I hope that by sharing this work, others can gain insights and inspiration for their own projects. Please feel free to explore and utilize the code I have provided, as it may serve as a valuable resource for your own Java programming endeavors.
 
